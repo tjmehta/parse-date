@@ -5,7 +5,7 @@ var expect = require('code').expect
 
 var parse = require('../index.js')
 
-describe('date-parse', function () {
+describe('parse-date', function () {
   it('should parse a valid date', function () {
     var d
     d = new Date()

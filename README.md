@@ -1,14 +1,14 @@
-# date-parse  [![Build Status](https://travis-ci.org/tjmehta/date-parse.svg?branch=master)](https://travis-ci.org/tjmehta/date-parse) [![js-standard-style](https://img.shields.io/badge/code%20style-standard-brightgreen.svg?style=flat)](http://standardjs.com/)
+# parse-date  [![Build Status](https://travis-ci.org/tjmehta/parse-date.svg?branch=master)](https://travis-ci.org/tjmehta/parse-date) [![js-standard-style](https://img.shields.io/badge/code%20style-standard-brightgreen.svg?style=flat)](http://standardjs.com/)
 Basic date parse util, throws if date is invalid
 
 # Installation
 ```bash
-npm i --save date-parse
+npm i --save parse-date
 ```
 
 # Usage
 ```js
-var parse = require('date-parse')
+var parse = require('parse-date')
 
 var date
 date = parse(1465335409856)

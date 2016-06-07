@@ -1,5 +1,5 @@
 {
-  "name": "date-parse",
+  "name": "parse-date",
   "version": "0.0.0",
   "description": "Simple date parse util, throws if date is invalid",
   "main": "index.js",
@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/tjmehta/date-parse.git"
+    "url": "https://github.com/tjmehta/parse-date.git"
   },
   "keywords": [
     "date",
@@ -23,9 +23,9 @@
   "author": "Tejesh Mehta",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/tjmehta/date-parse/issues"
+    "url": "https://github.com/tjmehta/parse-date/issues"
   },
-  "homepage": "https://github.com/tjmehta/date-parse",
+  "homepage": "https://github.com/tjmehta/parse-date",
   "devDependencies": {
     "code": "^1.5.0",
     "istanbul": "^0.4.3",
