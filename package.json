@@ -1,6 +1,6 @@
 {
   "name": "parse-date",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Simple date parse util, throws if date is invalid",
   "main": "index.js",
   "directories": {
